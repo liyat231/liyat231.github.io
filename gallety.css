@@ -1,0 +1,9 @@
+.img-card{
+    background-color: linear-gradient(45deg,blueviolet 5%, seagreen 45%, darkorange 95%);
+}
+.img-card{
+  padding: 5rem;
+  border: blue solid thin;
+  border-radius: 10px;
+  background-color:linear-gradient(45deg,blueviolet 5%, seagreen 45%, darkorange 95%);
+}
