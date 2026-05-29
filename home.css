@@ -1,0 +1,23 @@
+
+
+nav {
+ position: -webkit-sticky;
+ position: sticky;
+ top: 0;
+ background-color: #bf19b9;
+ padding: 10px;
+ display: flex;
+ gap: 50px;
+ list-style: none;
+}
+
+
+.footer {
+position: -webkit-sticky;
+position: sticky;
+background-color:  #bf19b9;
+position: fixed;
+bottom: 0;
+width: 100%;
+text-align: center;
+}
