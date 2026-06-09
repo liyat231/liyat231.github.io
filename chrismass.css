@@ -1,0 +1,40 @@
+.tree {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.top {
+    width: 0;
+    height: 0;
+    border-left: 40px solid transparent;
+    border-right: 40px solid transparent;
+    border-bottom: 60px solid green;
+    margin: auto;
+}
+
+.middle {
+    width: 0;
+    height: 0;
+    border-left: 60px solid transparent;
+    border-right: 60px solid transparent;
+    border-bottom: 80px solid green;
+    margin: auto;
+    margin-top: -20px;
+}
+
+.bottom {
+    width: 0;
+    height: 0;
+    border-left: 80px solid transparent;
+    border-right: 80px solid transparent;
+    border-bottom: 100px solid green;
+    margin: auto;
+    margin-top: -30px;
+}
+
+.trunk {
+    width: 30px;
+    height: 50px;
+    background-color: brown;
+    margin: auto;
+}

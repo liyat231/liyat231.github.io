@@ -1,0 +1,49 @@
+body {
+  background-color: lightgray;
+  font-family: Arial;
+}
+
+h1, h3 {
+  text-align: center;
+}
+
+.cards {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.pk-card {
+  width: 260px;
+  padding: 15px;
+  display: inline-block;
+  border-radius: 15px;
+  margin: 15px;
+}
+
+.pk-card img {
+  width: 260px;
+}
+
+.pk-card p {
+  color: white;
+  font-size: 15px;
+}
+
+.purple {
+  background-color: blueviolet;
+}
+
+.green {
+  background-color: seagreen;
+}
+
+.orange {
+  background-color: darkorange;
+}
+
+.img-card{
+  padding: 5rem;
+  border: blue solid thin;
+  border-radius: 10px;
+  background-color:linear-gradient(45deg,blueviolet 5%, seagreen 45%, darkorange 95%);
+}
