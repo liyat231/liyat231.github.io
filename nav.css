@@ -23,7 +23,7 @@ nav {
    text-align: center;
    position: absolute;
    top: 50px;
-   left: 20px;
+   left: 170px;
    width: 150px;
    height: 200px;
    border: 2px solid black;
@@ -40,7 +40,7 @@ nav {
    text-align: center;
    position: absolute;
    top: 50px;
-   left: 210px;
+   left: 360px;
    width: 150px;
    height: 200px;
    border: 2px solid black;
@@ -57,7 +57,7 @@ nav {
    text-align: center;
    position: absolute;
    top: 50px;
-   left: 420px;
+   left: 570px;
    width: 150px;
    height: 200px;
    border: 2px solid black;
@@ -74,7 +74,7 @@ nav {
    text-align: center;
    position: absolute;
    top: 50px;
-   left: 630px;
+   left: 780px;
    width: 150px;
    height: 200px;
    border: 2px solid black;
@@ -91,7 +91,7 @@ nav {
    text-align: center;
    position: absolute;
    top: 50px;
-   left: 840px;
+   left: 990px;
    width: 150px;
    height: 200px;
    border: 2px solid black;
@@ -178,7 +178,7 @@ nav {
    text-align: center;
    position: absolute;
    top: 320px;
-   left: 20px;
+   left: 170px;
    width: 150px;
    height: 200px;
    border: 2px solid black;
@@ -195,7 +195,7 @@ nav {
    text-align: center;
    position: absolute;
    top: 320px;
-   left: 210px;
+   left: 360px;
    width: 150px;
    height: 200px;
    border: 2px solid black;
@@ -211,7 +211,7 @@ nav {
    text-align: center;
    position: absolute;
    top: 320px;
-   left: 420px;
+   left: 570px;
    width: 150px;
    height: 200px;
    border: 2px solid black;
@@ -228,7 +228,7 @@ nav {
    text-align: center;
    position: absolute;
    top: 320px;
-   left: 630px;
+   left: 780px;
    width: 150px;
    height: 200px;
    border: 2px solid black;
@@ -245,7 +245,7 @@ nav {
    text-align: center;
    position: absolute;
    top: 320px;
-   left: 840px;
+   left: 990px;
    width: 150px;
    height: 200px;
    border: 2px solid black;
